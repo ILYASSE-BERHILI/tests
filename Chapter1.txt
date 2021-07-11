@@ -1,1 +1,1 @@
-This is my very first test of Git using.
+This is my second test of Git using.
